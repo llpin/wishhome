@@ -1,0 +1,2 @@
+
+final Page<Something> page = new PageImpl<>(theListOfSomething);
